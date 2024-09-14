@@ -2,7 +2,6 @@
 
 # RevyNetwork
 
-!RevyNetwork
 
 Selamat datang di repositori RevyNetwork! 🌐
 
@@ -14,10 +13,10 @@ RevyNetwork adalah situs web yang menyediakan berbagai fitur menarik seperti:
 
 ## Fitur
 
-### 🎮 [Download Patch Minecraft](https:revynetwork.github.io/mclink.html)
+### 🎮 Download Patch Minecraft
 Klik di sini untuk mendownload patch terbaru untuk Minecraft.
 
-### 🌐 [IP Tracking](https://revynetwork.github.io/ipcheck.html)
+### 🌐 IP Tracking
 - **Deteksi IP Anda**
 - **Cari Informasi IP**
 
